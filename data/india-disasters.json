@@ -1,0 +1,144 @@
+{
+  "disasters": [
+    {
+      "id": "uttarakhand-floods-2013",
+      "location": "Kedarnath, Uttarakhand",
+      "date": "June 16, 2013",
+      "disasterType": "Flood",
+      "description": "The Kedarnath disaster was triggered by heavy rainfall and cloudburst causing devastating floods and landslides. Over 5,700 people were presumed dead with thousands of villages affected across Uttarakhand. The flash floods destroyed numerous buildings, roads, and bridges, making it one of India's worst natural disasters in recent history."
+    },
+    {
+      "id": "bhuj-earthquake-2001",
+      "location": "Bhuj, Gujarat",
+      "date": "January 26, 2001",
+      "disasterType": "Earthquake",
+      "description": "The Bhuj earthquake, measuring 7.7 on the Richter scale, struck on India's Republic Day. It killed approximately 20,000 people, injured 167,000, and destroyed nearly 400,000 homes. The earthquake affected 21 districts, with Bhuj, Anjar, Bachau, and Rapar being the worst hit areas in Gujarat."
+    },
+    {
+      "id": "kerala-floods-2018",
+      "location": "Kerala",
+      "date": "August 8-18, 2018",
+      "disasterType": "Flood",
+      "description": "Kerala experienced the worst floods in nearly a century due to unusually high rainfall during the monsoon season. Over 483 people died, 140 went missing, and a million people were evacuated. All 14 districts of Kerala were placed on red alert. The floods caused an estimated $3.4 billion in damage."
+    },
+    {
+      "id": "odisha-cyclone-1999",
+      "location": "Odisha",
+      "date": "October 29, 1999",
+      "disasterType": "Cyclone",
+      "description": "The 1999 Odisha Cyclone (also known as Cyclone 05B or the Paradip cyclone) was the strongest recorded tropical cyclone in the North Indian Ocean. It hit with wind speeds of 260 km/h, killing over 10,000 people and affecting 13 million. The storm surge of 8 meters devastated the coastal districts of Odisha."
+    },
+    {
+      "id": "assam-floods-2020",
+      "location": "Assam",
+      "date": "May-September 2020",
+      "disasterType": "Flood",
+      "description": "The 2020 Assam floods affected over 5.7 million people across 30 districts. More than 120 people died, and the Brahmaputra River flowed above the danger mark in many areas. The floods damaged over 156,000 hectares of crop area and affected the Kaziranga National Park, killing nearly 150 wild animals."
+    },
+    {
+      "id": "chennai-floods-2015",
+      "location": "Chennai, Tamil Nadu",
+      "date": "November-December 2015",
+      "disasterType": "Flood",
+      "description": "Chennai experienced its worst floods in over a century after receiving record-breaking rainfall. The city received 1,049 mm of rainfall in November, the highest since 1918. Over 500 people died, and economic losses were estimated at $3 billion. The floods affected more than 4 million people with many areas submerged for weeks."
+    },
+    {
+      "id": "latur-earthquake-1993",
+      "location": "Latur, Maharashtra",
+      "date": "September 30, 1993",
+      "disasterType": "Earthquake",
+      "description": "The Latur earthquake, measuring 6.4 on the Richter scale, struck the Maharashtra state at 3:56 am local time. It killed approximately 10,000 people and destroyed 52 villages completely. The earthquake's epicenter was near the village of Killari in the Latur district."
+    },
+    {
+      "id": "andhra-cyclone-1977",
+      "location": "Andhra Pradesh",
+      "date": "November 19, 1977",
+      "disasterType": "Cyclone",
+      "description": "The 1977 Andhra Pradesh cyclone was one of the deadliest tropical cyclones in India's history. It struck India's southeastern coast with winds of 250 km/h and a storm surge that reached 5 meters high. The cyclone killed at least 10,000 people and left hundreds of thousands homeless."
+    },
+    {
+      "id": "mumbai-floods-2005",
+      "location": "Mumbai, Maharashtra",
+      "date": "July 26, 2005",
+      "disasterType": "Flood",
+      "description": "Mumbai received 944 mm of rainfall in a 24-hour period, the highest ever recorded in a single day in India. The floods killed over 1,000 people and caused massive damage to infrastructure. The city came to a standstill with airports closed, trains canceled, and thousands stranded."
+    },
+    {
+      "id": "uttarakhand-landslide-2021",
+      "location": "Chamoli, Uttarakhand",
+      "date": "February 7, 2021",
+      "disasterType": "Landslide",
+      "description": "A massive flash flood in the Chamoli district was caused by a landslide and glacial lake outburst. It destroyed two hydropower projects and killed over 200 people. The flood was triggered by a large chunk of ice and rock breaking off from a glacier in the Nanda Devi mountain."
+    },
+    {
+      "id": "kullu-floods-2018",
+      "location": "Kullu Valley, Himachal Pradesh",
+      "date": "September 23, 2018",
+      "disasterType": "Flood",
+      "description": "Heavy rainfall triggered flash floods in the Kullu Valley, washing away roads, bridges, and houses. Several tourists were stranded and had to be airlifted. The floods caused significant damage to infrastructure and agriculture in the region."
+    },
+    {
+      "id": "mandi-cloudburst-2017",
+      "location": "Mandi, Himachal Pradesh",
+      "date": "August 13, 2017",
+      "disasterType": "Cloudburst",
+      "description": "A cloudburst in Mandi district triggered landslides that swept away two buses and several vehicles on a highway, killing 46 people. The incident occurred near Kotrupi village when a portion of a hill collapsed on the Mandi-Pathankot highway following heavy rainfall."
+    },
+    {
+      "id": "bihar-floods-2019",
+      "location": "Bihar",
+      "date": "July-September 2019",
+      "disasterType": "Flood",
+      "description": "The 2019 Bihar floods affected over 13 million people across 13 districts. More than 120 people died, and thousands were displaced. The floods were caused by heavy rainfall and the overflowing of major rivers including the Ganga, Kosi, and Bagmati."
+    },
+    {
+      "id": "bengal-cyclone-aila-2009",
+      "location": "West Bengal",
+      "date": "May 25, 2009",
+      "disasterType": "Cyclone",
+      "description": "Cyclone Aila hit West Bengal and Bangladesh with winds of 110 km/h. In India, it killed 149 people and affected over 6 million. The cyclone caused widespread damage to infrastructure, agriculture, and the Sundarbans mangrove forests."
+    },
+    {
+      "id": "andaman-tsunami-2004",
+      "location": "Andaman and Nicobar Islands",
+      "date": "December 26, 2004",
+      "disasterType": "Tsunami",
+      "description": "The 2004 Indian Ocean tsunami, triggered by a 9.1 magnitude earthquake, severely impacted the Andaman and Nicobar Islands. Around 3,500 people were killed or went missing, and nearly 40,000 were rendered homeless. The tsunami waves reached heights of 15 meters in some areas."
+    },
+    {
+      "id": "orissa-heat-wave-1998",
+      "location": "Odisha",
+      "date": "May-June 1998",
+      "disasterType": "Heat Wave",
+      "description": "The 1998 heat wave in Odisha was one of the deadliest in India's history. Temperatures soared above 50°C in some areas, killing over 2,500 people. The coastal areas of Odisha were the worst affected, with many deaths due to sunstroke and dehydration."
+    },
+    {
+      "id": "bangalore-floods-2022",
+      "location": "Bangalore, Karnataka",
+      "date": "September 5-7, 2022",
+      "disasterType": "Flood",
+      "description": "Unprecedented rainfall caused severe flooding in Bangalore, particularly affecting the IT corridor and eastern parts of the city. Many tech parks and residential areas were submerged, with people evacuated using boats. The floods exposed the city's inadequate drainage system and unplanned urban development."
+    },
+    {
+      "id": "delhi-floods-2023",
+      "location": "Delhi",
+      "date": "July 9-13, 2023",
+      "disasterType": "Flood",
+      "description": "Heavy monsoon rains caused the Yamuna River to rise to a record 208.66 meters, breaching its danger mark. Large parts of Delhi were inundated, including historical sites and key infrastructure. Over 25,000 people were evacuated from low-lying areas, and the city faced severe water shortages and traffic disruptions."
+    },
+    {
+      "id": "sikkim-floods-2023",
+      "location": "Sikkim",
+      "date": "October 4, 2023",
+      "disasterType": "Flood",
+      "description": "A glacial lake outburst flood (GLOF) in South Lhonak Lake caused catastrophic flooding in the Teesta River basin. The flood was exacerbated by the breach of the Chungthang Dam. At least 40 people died, with over 100 missing. The disaster destroyed critical infrastructure including bridges, roads, and hydropower projects."
+    },
+    {
+      "id": "himachal-floods-2023",
+      "location": "Himachal Pradesh",
+      "date": "July-August 2023",
+      "disasterType": "Flood",
+      "description": "Unprecedented monsoon rains triggered devastating floods and landslides across Himachal Pradesh. Over 400 people died, and the state suffered economic losses exceeding ₹10,000 crore. Major tourist destinations like Manali, Kullu, and Shimla were severely affected, with thousands of tourists stranded."
+    }
+  ]
+}
