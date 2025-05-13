@@ -1,2 +1,0 @@
-# Ai-driven-weather-Forecast-with-diaster-preparedness
-A modern web application providing real-time weather updates, disaster preparedness, and an AI assistant for disaster-related queries in India. Features include interactive weather dashboards, detailed safety guides, historical disaster data from 1900 to 2025, and emergency contact information. Built with Next.js, Tailwind CSS, and custom AI logic.
